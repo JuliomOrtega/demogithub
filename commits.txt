@@ -1,0 +1,17 @@
+commit c5979205952ef229d467406c179a746ff50a3906
+Author: JuliomOrtega <juliom.ortega@gmail.com>
+Date:   Fri Dec 9 18:17:12 2016 -0600
+
+    Se agregaron estilos y paginas al sistema
+
+commit 23802293cf831623a220a148ed08cd9b98f64e66
+Author: JuliomOrtega <juliom.ortega@gmail.com>
+Date:   Fri Dec 9 17:44:23 2016 -0600
+
+    Agregamos salesforce a la p[agina
+
+commit 209ee4ddbccdf72c4995c84ab83e4a113fd0e57b
+Author: JuliomOrtega <juliom.ortega@gmail.com>
+Date:   Fri Dec 9 17:32:50 2016 -0600
+
+    Iniciamos Proyectod

@@ -285,3 +285,7 @@ footer ul li a:hover{
    .cajas{width: 100%}
    .info{word-break: break-word}
 }
+
+.btn {
+    background-color: #CE4040
+}
